@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Message from new project 2.0");
+        System.out.println("This is a new form");
     }
 }
