@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("This is a new feature number 1 from original");
+        System.out.println("This is a new feature with a button");
     }
 }
